@@ -41,6 +41,6 @@ I am Gabriele Pagliaricci 😊</h1>
     <td></td>
   </tr>
 </table>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mindthediv&show_icons=true&locale=en" alt="mindthediv" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindthediv&" alt="mindthediv" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=mindthediv&show_icons=true&locale=en" alt="mindthediv" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindthediv&" alt="mindthediv" /> -->
 
