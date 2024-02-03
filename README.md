@@ -3,7 +3,7 @@ I am Gabriele Pagliaricci 😊</h1>
 <ul>
 <li>Web Developer 🌍</li>
 <li>Based in Italy 🍕</li>
-<li>Currently studying new tecnologies (.net + blazor) 🟣</li>
+<li>Consultant for Hewlett-Packard Enterprise</li>
 </ul>
 <span>Hit me on <a href="https://www.linkedin.com/in/gabriele-pagliaricci-ba7b43272/" target="_blank">Linkedin</a></span>
 <h3>Knowledge and Tools:</h3>
